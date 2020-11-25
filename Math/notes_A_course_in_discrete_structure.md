@@ -73,3 +73,8 @@ Theorem 1.3. Given injective maps, f: S->T and g: T->S, we can construct bijecti
 Def. 1.16. ( Countable ). S is countable if `S<N^+`. 
 
 Theorem 1.4. Positive rational numbers set is countable. 
+
+# Proof and Induction
+
+# Finite Automata
+
